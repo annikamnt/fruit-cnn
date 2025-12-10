@@ -27,9 +27,9 @@ fruit-cnn/
 ├── SeamCarvedImages/
 │   └── {ClassName}/ (x 16)
 │       └── {ClassName} ({Index}).jpg (x 50)
-├── MATH 282.1 Project (Cheng, Montemayor).pdf
-├── p2.ipynb
-├── README.txt
+├── Examining the Role of Color in Predicting Fruit Freshness Using Convolutional Neural Networks.pdf
+├── Notebook.ipynb
+├── README.md
 └── requirements.txt
 ```
     
